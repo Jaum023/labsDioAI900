@@ -1,0 +1,1 @@
+Utilizei o Vision Studio e algumas de suas ferramentas para verificar algumas das possibilidades do que uma IA pode fazer em leitura de imagens. Os exemplos utilizados foram 1. Detect faces in an image. 2. Extract text from images. 3. Add dense captions to images. 
