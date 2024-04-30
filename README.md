@@ -1,1 +1,1 @@
-Utilizando o Speech Studio do azure, usei a IA para fazer a transcrição de um audio.
+Utilizando o Speech Studio do azure, usei a IA para fazer a transcrição de um audio. Além disso, usando o Language Studio utilizei a IA para examinar uma análise e descobrir os sentimentos expostos no texto com o papel de descobrir se a análise é positiva ou negativa automaticamente.
