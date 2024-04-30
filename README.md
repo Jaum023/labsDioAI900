@@ -1,0 +1,1 @@
+Utilizando as ferramentas AI Search e Resource group, seguindo o curso da DIO e a documentação da microsoft, criei uma IA que deve buscar coisas específicas dentro de reviews fictícias de uma coffee-shop. Ela pode buscar sentimentos específicos nas reviews, localidades e outras coisas.
